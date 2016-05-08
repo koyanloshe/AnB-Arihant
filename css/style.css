@@ -1,0 +1,154 @@
+.pado{
+    padding: 0px !important;
+}
+.maro{
+    margin:0px !important;
+}
+.padxs{
+    padding: 6px;
+}
+.pads{
+    padding: 10px;
+}
+.padm{
+    padding: 20px;
+}
+.padlg{
+    padding: 30px;
+}
+.padl{
+    padding-left:30px; 
+}
+.padr{
+    padding-right:30px;
+}
+.padb{
+    padding-bottom:30px; 
+}
+.padt{
+    padding-top:30px; 
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+.center{
+    text-align: center;
+}
+li{
+    list-style: 
+}
+.hundred{
+    width:100%;
+}
+.center1{
+    text-align:right;
+}
+.desk{
+    display: block;
+}
+.mobile{
+    display:none;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
+   background-color: #e89116; 
+}
+.btn-sm{
+    background-color: #e89116;
+    color:#fff;
+    }
+.btn-sm:hover, .btn:focus{
+    color:#fff;
+}
+a:hover{
+    color:#000;
+}
+a{
+    color:#000;
+}
+#header{
+    background-image: url('../img/header.jpg');
+    background-position: top;
+    background-size: cover;
+}
+#three{
+    background-color: #e5e5e5;
+}
+#form{
+    background-color: #fff;
+    padding: 20px 15px;
+    margin-top: 30px;
+    margin-bottom:50px;
+    right: -60px;
+    top: 10px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px #888888;
+}
+#subform{
+    font-size: 12px;
+    color:#555;
+}
+#submit{
+    color:#fff;
+}
+#submit>input{
+    background-color: #e89116;
+    padding:10px 15px;
+    font-size: 16px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+#form2{
+    background-color: #fff;
+    display: block !important;
+    box-shadow: 0px 0px 5px #888888; 
+    padding: 30px 0;
+    border-radius: 4px; 
+}  
+.submit{
+    color: #fff;
+    background-color: #e7832e;
+    padding: 10px 15px 10px 15px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 4px; 
+    font-size: 16px;
+}
+.sub-but{background-color: red;
+    padding:10px 15px;
+    font-size: 16px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    }
+.white{
+    color: white;
+}
+.btn-sm{
+    background-color: #e89116;
+    font-size: 12px !important;
+    }
+@media (min-width: 480px) { 
+.center1{
+    text-align: center;
+    }
+.padb1{
+    padding-bottom: 20px;
+    }  
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    }
+
+.desk{
+    display:none;
+    }
+.mobile{
+    display:block;
+}
+li{
+    font-size: 15px;
+    }
+
+}
